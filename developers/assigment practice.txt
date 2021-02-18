@@ -1,0 +1,11 @@
+1. <head><
+
+2. <title>types of animals</title>
+
+3. <p> tigers, lions,giraffs</p>
+
+4. <body>
+
+5. <h1>
+
+6. <h3>
